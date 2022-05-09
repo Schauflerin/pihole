@@ -1,0 +1,18 @@
+# Exact Blacklist Entries
+# add manually in blacklist
+
+# Alexa Stuff
+web.diagnostic.networking.aws.dev
+d3p8zr0ffa9t17.cloudfront.net
+acsechocaptiveportal.com
+
+# Facebook
+graph.facebook.com
+gateway.facebook.com
+
+# BSI Microsoft Liste
+eu.vortex-win.data.microsoft.com
+us.vortex-win.data.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+vortex-win-sandbox.data.microsoft.com

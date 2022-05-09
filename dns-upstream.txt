@@ -1,0 +1,1 @@
+Standard Upstream DNS ist Quad9 filtered, DNSSEC
