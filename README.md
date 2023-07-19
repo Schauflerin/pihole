@@ -1,5 +1,7 @@
 # Pihole Blocklists
 
+https://pi-hole.net/
+
 In diesem Repo sind meine Settings für den PiHole abgelegt:
 
 - Als DNS-Upstream verwende ich den Quad9 filtered, DNSSEC
